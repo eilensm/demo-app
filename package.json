@@ -1,0 +1,10 @@
+{
+  "name": "demo-app",
+  "private": true,
+  "license": "UNLICENSED",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
